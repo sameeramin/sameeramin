@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sameeramin.com](https://sameeramin.com)
 
-- 📝 I regularly write articles on [https://dev.to/sameeramin](https://dev.to/sameeramin)
+- 📝 I regularly write articles on [https://blog.sameeramin.com](https://blog.sameeramin.com)
 
 - 💬 Ask me about **Flask, Python, Django, Docker, WordPress**
 
