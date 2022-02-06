@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://blog.sameeramin.com](https://blog.sameeramin.com)
 
-- 💬 Ask me about **Flask, Python, Django, Docker, WordPress**
+- 💬 Ask me about **Flask, Python, Django, FastAPI, Docker, WordPress**
 
 - 📫 How to reach me **work@sameeramin.com**
 
