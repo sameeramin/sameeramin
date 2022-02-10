@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [RoBerta-Urdu](https://huggingface.co/sameeramin/roberta-urdu)
 
-- 🌱 I’m currently learning **PyTorch, NLP**
+- 🌱 I’m currently learning **PyTorch**
 
 - 👯 I’m looking to collaborate on **NLP, NLU and Conversational AI**
 
