@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://sameeramin.com](https://sameeramin.com)
 
-- 📝 I regularly write articles on [https://blog.sameeramin.com](https://blog.sameeramin.com)
-
 - 💬 Ask me about **Flask, Python, Django, FastAPI, Docker, WordPress**
 
 - 📫 How to reach me **work@sameeramin.com**
@@ -25,13 +23,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/sameeramin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sameeramin" height="30" width="40" /></a>
 <a href="https://twitter.com/thesameeramin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thesameeramin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad-sameer-amin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-sameer-amin" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10026663" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10026663" height="30" width="40" /></a>
 <a href="https://kaggle.com/sameeramin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sameeramin" height="30" width="40" /></a>
 <a href="https://www.behance.net/muhammad-sameer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="muhammad-sameer" height="30" width="40" /></a>
-<a href="https://medium.com/@sameer_amin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sameer_amin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
