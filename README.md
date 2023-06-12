@@ -9,11 +9,11 @@
 
 - 👯 I’m looking to collaborate on **NLP, NLU and Conversational AI**
 
-- 👨‍💻 All of my projects are available at [https://sameeramin.com](https://sameeramin.com)
+- 👨‍💻 All of my projects are available at [https://github.com/sameeramin?tab=repositories](https://github.com/sameeramin?tab=repositories)
 
 - 💬 Ask me about **Flask, Python, Django, FastAPI, Docker, WordPress**
 
-- 📫 How to reach me **work@sameeramin.com**
+- 📫 How to reach me **sameeramin.com@gmail.com**
 
 - ⚡ Fun fact **I am something of a programmer myself :wink:**
 
