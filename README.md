@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameeramin&label=Profile%20views&color=0e75b6&style=flat" alt="sameeramin" /> </p>
 
-- 🔭 I’m currently working on [RoBerta-Urdu](https://huggingface.co/sameeramin/roberta-urdu)
+- 🔭 I’m currently working on **Moodle**
 
 - 🌱 I’m currently learning **PyTorch**
 
-- 👯 I’m looking to collaborate on **NLP, NLU and Conversational AI**
+<!-- - 👯 I’m looking to collaborate on **NLP, NLU and Conversational AI** -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/sameeramin?tab=repositories](https://github.com/sameeramin?tab=repositories)
 
-- 💬 Ask me about **Flask, Python, Django, FastAPI, Docker, WordPress**
+- 💬 Ask me about **Flask, Python, Django, FastAPI, PHP Moodle, WordPress, Docker**
 
 - 📫 How to reach me **sameeramin.com@gmail.com**
 
