@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sameeramin?tab=repositories](https://github.com/sameeramin?tab=repositories)
 
-- 💬 Ask me about **Flask, Python, Django, FastAPI, PHP Moodle, WordPress, Docker**
+- 💬 Ask me about **Python, Flask, Django, FastAPI, PHP Moodle, WordPress, Docker**
 
 - 📫 How to reach me **sameeramin.com@gmail.com**
 
