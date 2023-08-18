@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameeramin&label=Profile%20views&color=0e75b6&style=flat" alt="sameeramin" /> </p>
 
-- 🔭 I’m currently working on **Django and Moodle**
+- 🔭 I’m currently working on **Django, Moodle, React & Konva**
 
 - 🌱 I’m currently learning **PyTorch**
 
