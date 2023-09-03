@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Django, Moodle, React & Konva**
 
-- 🌱 I’m currently learning **PyTorch**
+<!-- - 🌱 I’m currently learning **PyTorch** -->
 
 <!-- - 👯 I’m looking to collaborate on **NLP, NLU and Conversational AI** -->
 
