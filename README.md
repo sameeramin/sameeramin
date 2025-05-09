@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameeramin&label=Profile%20views&color=0e75b6&style=flat" alt="sameeramin" /> </p>
 
-- 🔭 I’m currently working on **Django, Moodle, React & Konva**
+- 🔭 I’m currently working on **OpenEdx and Moodle**
 
 <!-- - 🌱 I’m currently learning **PyTorch** -->
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sameeramin?tab=repositories](https://github.com/sameeramin?tab=repositories)
 
-- 💬 Ask me about **Python, Flask, Django, FastAPI, PHP Moodle, WordPress, Docker**
+- 💬 Ask me about **Python, Django, Flask, FastAPI, OpenEdx, Moodle, WordPress, PHP, JS**
 
 - 📫 How to reach me **sameeramin.com@gmail.com**
 
@@ -20,11 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thesameeramin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thesameeramin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad-sameer-amin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-sameer-amin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/10026663" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10026663" height="30" width="40" /></a>
-<a href="https://kaggle.com/sameeramin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sameeramin" height="30" width="40" /></a>
-<a href="https://www.behance.net/muhammad-sameer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="muhammad-sameer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
