@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sameer</h1>
-<h3 align="center">A Software Engineer, Full-Stack Web Developer and AI Enthusiast.</h3>
+<h3 align="center">Sr. Software Engineer @ [Arbisoft](https://arbisoft.com/), Core Contributor @ [Open edX](https://openedx.org/).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameeramin&label=Profile%20views&color=0e75b6&style=flat" alt="sameeramin" /> </p>
 
